@@ -1005,14 +1005,34 @@ readers do not read off random characters that represent icons */
 .fa-code:before {
   content: "\f121"; }
 
+.fa-solid fa-brush:before {
+    content: "\f55d"; }
+
 .fa-code-branch:before {
   content: "\f126"; }
 
 .fa-codepen:before {
   content: "\f1cb"; }
 
+.fa-film fa-xs:before {
+  content: "\f008"; }
+
+.fa-globe:before {
+  content: "\f0ac"; }
+
+.fa-envelopes-bulk:before {
+  content: "\f674"; } 
 .fa-codiepie:before {
   content: "\f284"; }
+
+.fa-futbol:before {
+  content: "\f1e3"; }
+
+.fa-dumbbell:before {
+  content: "\f44b"; }
+
+.fa-suitcase-rolling:before {
+  content: "\f5c1"; }
 
 .fa-coffee:before {
   content: "\f0f4"; }
