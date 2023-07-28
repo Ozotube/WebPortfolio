@@ -225,6 +225,9 @@ readers do not read off random characters that represent icons */
 .fa-affiliatetheme:before {
   content: "\f36b"; }
 
+.fa-square-facebook:before {
+  content: "\f082"; }
+
 .fa-air-freshener:before {
   content: "\f5d0"; }
 
