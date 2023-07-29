@@ -1,0 +1,14 @@
+
+  .row {
+    padding: auto;
+  }
+  
+  .copyright {
+    padding: 0.1em 1em;
+    background-color: #4bffa5;
+  }
+  .copyright p {
+    font-size: 16px;
+    text-align: center;
+    color: black;
+  }
