@@ -536,6 +536,16 @@ a.btn .lnk,
 	pointer-events: none;
 }
 
+#headerPopup{
+	width:75%;
+	margin:0 auto;
+  }
+  
+  #headerPopup iframe{
+	width:100%;
+	margin:0 auto;
+  }
+
 a.btn:hover,
 .btn:hover {
 	color: #101010;
